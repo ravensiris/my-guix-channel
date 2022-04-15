@@ -1,0 +1,5 @@
+;; -*- mode: scheme; -*-
+(authorizations
+ (version 0)
+ (("AE7D 0358 D1B9 A296 B827  C437 3BEB 1D9A 4F1B 1E4B"
+   (name "ravensiris"))))
